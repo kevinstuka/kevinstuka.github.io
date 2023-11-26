@@ -1,7 +1,8 @@
 # CV
-<div align="center">
-  <img src="./IMG_4078.HEIC" alt="Photo" width="200"/>
-</div>
+<p align="center">
+  <img src="./IMG_4078.HEIC" width="200">
+</p>
+
 ## Podstawowe dane
 Imię: Kevin <br>
 Nazwisko: Stuka <br>
