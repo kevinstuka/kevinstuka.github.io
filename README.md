@@ -1,5 +1,7 @@
 # CV
-![Photo](C:\Users\micro\Pictures\IMG_4078.HEIC)
+<div align="center">
+  <img src="./IMG_4078.HEIC" alt="Photo" width="200"/>
+</div>
 ## Podstawowe dane
 Imię: Kevin <br>
 Nazwisko: Stuka <br>
