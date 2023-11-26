@@ -1,6 +1,6 @@
 # CV
 <p align="center">
-  <img src="./IMG_4078.png" width="200">
+  <img src="IMG_4078.png" width="200">
 </p>
 
 ## Podstawowe dane
