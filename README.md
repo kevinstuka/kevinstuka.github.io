@@ -1,5 +1,5 @@
 # CV
-![Photo]("C:\Users\micro\Pictures\IMG_4078.HEIC")
+![Photo](C:\Users\micro\Pictures\IMG_4078.HEIC)
 ## Podstawowe dane
 Imię: Kevin <br>
 Nazwisko: Stuka <br>
